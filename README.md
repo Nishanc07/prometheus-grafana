@@ -32,6 +32,8 @@ tar xvf prometheus-2.49.0.linux-amd64.tar.gz
 cd prometheus-2.49.0.linux-amd64
 ```
 
+and so on from the offcial documentation for all
+
 2. Create Prometheus Service and run the service.. Access prometheus on public_ip:9090
 
 3. Install PostgreSQL Exporter
@@ -59,21 +61,10 @@ export DATA_SOURCE_NAME="mysql_exporter:root123@tcp(localhost:3306)/"
 ./mysqld_exporter
 ```
 
-# Test Prometheus
-
-curl http://<public_ip>:9090/metrics
-
-# Test Node Exporter
-
-curl http://<public_ip>:9100/metrics
-
-# Test PostgreSQL Exporter
-
-curl http://<public_ip>:9187/metrics
-
-# Test MySQL Exporter
-
-curl http://<public_ip>:9104/metrics
+- Test Prometheus: curl http://<public_ip>:9090/metrics
+- Test Node Exporter: curl http://<public_ip>:9100/metrics
+- Test PostgreSQL Exporter: curl http://<public_ip>:9187/metrics
+- Test MySQL Exporter: curl http://<public_ip>:9104/metrics
 
 ## Grafana Setup
 
