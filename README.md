@@ -106,4 +106,4 @@ Node Exporter: https://nishanc604.grafana.net/dashboard/snapshot/lGXHIZXnMRuGMwA
 
 ![alt text](https://github.com/Nishanc07/prometheus-grafana/blob/main/public/Screenshot%202025-08-20%20at%2017.02.59.png)
 
-![alt text](https://github.com/Nishanc07/backup_db/blob/main/public/Screenshot%202025-08-19%20at%2015.35.52.png)
+![alt text](https://github.com/Nishanc07/prometheus-grafana/blob/main/public/Screenshot%202025-08-20%20at%2014.35.20.png)
