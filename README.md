@@ -97,3 +97,13 @@ curl http://<public_ip>:9104/metrics
 - Select Prometheus and load
 
 Node Exporter: https://nishanc604.grafana.net/dashboard/snapshot/lGXHIZXnMRuGMwAIQjLsqKAKjU77ZJqI?orgId=1&from=now-6h&to=now&timezone=browser&var-DS_PROMETHEUS=grafanacloud-prom&var-job=node&var-nodename=prgr&var-node=localhost:9100&var-diskdevices=%5Ba-z%5D%2B%7Cnvme%5B0-9%5D%2Bn%5B0-9%5D%2B%7Cmmcblk%5B0-9%5D%2B&refresh=1m
+
+![alt text](https://github.com/Nishanc07/prometheus-grafana/blob/main/public/Screenshot%202025-08-20%20at%2016.06.40.png)
+
+![alt text](https://github.com/Nishanc07/prometheus-grafana/blob/main/public/Screenshot%202025-08-20%20at%2017.02.46.png)
+
+![alt text](https://github.com/Nishanc07/prometheus-grafana/blob/main/public/Screenshot%202025-08-20%20at%2016.41.57.png)
+
+![alt text](https://github.com/Nishanc07/prometheus-grafana/blob/main/public/Screenshot%202025-08-20%20at%2017.02.59.png)
+
+![alt text](https://github.com/Nishanc07/backup_db/blob/main/public/Screenshot%202025-08-19%20at%2015.35.52.png)
